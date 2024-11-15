@@ -120,7 +120,7 @@ author:
   email            :
   links:
     - label: "Curriculum Vitae (CV)"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-file-pdf"
       url: "/assets/download/YUNWOOLEE_CV_20241112.pdf"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
