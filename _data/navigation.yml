@@ -2,6 +2,8 @@
 main:
   - title: "Research"
     url: /_pages/research_page/index.html
+  - title: "Publications"
+    url: /_pages/publications_page/index.html
   - title: "Projects"
     url: /_pages/projects_page/index.html
   # - title: "About"
