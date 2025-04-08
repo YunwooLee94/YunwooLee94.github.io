@@ -1,5 +1,5 @@
 ---
-title: "(RA-L, submitted) Distributed Multi-Agent Trajectory Planning for Target Tracking Using Dynamic Buffered Voronoi and Inter-Visibility Cells"
+title: "(RA-L) Distributed Multi-Agent Trajectory Planning for Target Tracking Using Dynamic Buffered Voronoi and Inter-Visibility Cells"
 categories:
  - Journal
 tags:

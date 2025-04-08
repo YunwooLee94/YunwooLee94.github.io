@@ -1,5 +1,5 @@
 ---
-title: "(IJRR, accepted) Decentralized Trajectory Planning for Quadrotor Swarm in Cluttered Environments with Goal Convergence Guarantee"
+title: "(IJRR) Decentralized Trajectory Planning for Quadrotor Swarm in Cluttered Environments with Goal Convergence Guarantee"
 categories:
  - 2ndAuthor
 tags:
