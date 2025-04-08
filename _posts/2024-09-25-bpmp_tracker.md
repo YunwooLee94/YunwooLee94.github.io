@@ -1,5 +1,5 @@
 ---
-title: "(RA-L, accepted) BPMP-Tracker: A Versatile Aerial Target Tracker
+title: "(RA-L) BPMP-Tracker: A Versatile Aerial Target Tracker
 Using Bernstein Polynomial Motion Primitives"
 categories:
  - Journal
